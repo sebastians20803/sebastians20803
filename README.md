@@ -11,3 +11,9 @@ Soy **estudiante de desarrollo de software** de Bucaramanga, Santander (Colombia
 - 💻 Me encantar todo lo relacionado en aprender programacion y cada dia descubrir algo nuevo
 - 🤖 Estoy muy interesado en la inteligencia artificial y todo lo que se viene para el futuro, incluyendo la automatizacion con ella para las empresas.
 - 🗣️ Idiomas: **Español (nativo)** · **Inglés (intermedio)** 
+- ✉️ Contacto: Sebastiancampus20803@gmail.com
+
+### Lenguajes
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PSeInt](https://img.shields.io/badge/PSeInt-Algoritmos-blue?style=flat)
