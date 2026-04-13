@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">¡Hola! Juan Sebastian Sierra Alarcon 👋</h1>
 
-<!--
-**sebastians20803/sebastians20803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5800F7&center=true&vCenter=true&width=435&lines=Aprendiendo+desarrollo+de+software+💻" />
+</p>
 
-Here are some ideas to get you started:
+## Sobre mí 🇨🇴
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy **estudiante de desarrollo de software** de Bucaramanga, Santander (Colombia), con muchas ganas de aprender y crecer en el mundo de la programación. Estoy comprometido a dar lo mejor de mí en cada proyecto y seguir mejorando día a día.
+
+- 💻 Me encantar todo lo relacionado en aprender programacion y cada dia descubrir algo nuevo
+- 🤖 Estoy muy interesado en la inteligencia artificial y todo lo que se viene para el futuro, incluyendo la automatizacion con ella para las empresas.
+- 🗣️ Idiomas: **Español (nativo)** · **Inglés (intermedio)** 
