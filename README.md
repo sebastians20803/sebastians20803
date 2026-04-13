@@ -28,8 +28,9 @@ Soy **estudiante de desarrollo de software** de Bucaramanga, Santander (Colombia
 Seguir mejorando mis habilidades en programación y construir proyectos que me permitan crecer como desarrollador.
 
 ### 📂 Proyectos
-- Simulador de Gasto Diario 
-- Proyectos de python
+
+- [Simulador de Gasto Diario](https://github.com/sebastians20803/Proyecto_Python_SierraJuan)
+
 
 ### 👨‍💻 Lenguajes
 
