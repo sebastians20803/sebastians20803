@@ -13,6 +13,12 @@ Soy **estudiante de desarrollo de software** de Bucaramanga, Santander (Colombia
 - 🗣️ Idiomas: **Español (nativo)** · **Inglés (intermedio)** 
 - ✉️ Contacto: Sebastiancampus20803@gmail.com
 
+## Expectativas
+
+
+
+
+
 ### Lenguajes
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
