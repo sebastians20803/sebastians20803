@@ -28,13 +28,12 @@ Soy **estudiante de desarrollo de software** de Bucaramanga, Santander (Colombia
 Seguir mejorando mis habilidades en programación y construir proyectos que me permitan crecer como desarrollador.
 
 
-### Lenguajes
+### 👨‍💻 Lenguajes
 
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" title="PSeInt (Lógica de programación)" width="60" height="60"/>
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastians20803&show_icons=true)
