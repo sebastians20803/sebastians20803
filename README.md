@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Juan Sebastian Sierra Alarcon 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5800F7&center=true&vCenter=true&width=435&lines=Aprendiendo+desarrollo+de+software+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Desarrollador+de+software+%F0%9F%92%BB)](https://git.io/typing-svg />
 </p>
 
 <p align="center">
