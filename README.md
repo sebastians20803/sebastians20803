@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5800F7&center=true&vCenter=true&width=435&lines=Aprendiendo+desarrollo+de+software+💻" />
 </p>
 
+<p align="center">
+  <em>" Enfocado "</em>
+</p>
+
 ## Sobre mí 🇨🇴
 
 Soy **estudiante de desarrollo de software** de Bucaramanga, Santander (Colombia), con muchas ganas de aprender y crecer en el mundo de la programación. Estoy comprometido a dar lo mejor de mí en cada proyecto y seguir mejorando día a día.
@@ -13,13 +17,24 @@ Soy **estudiante de desarrollo de software** de Bucaramanga, Santander (Colombia
 - 🗣️ Idiomas: **Español (nativo)** · **Inglés (intermedio)** 
 - ✉️ Contacto: Sebastiancampus20803@gmail.com
 
-## Expectativas
 
+### 📚 Actualmente aprendiendo
+- Python
+- Fundamentos de desarrollo de software
+- HTML y CSS
 
+### 🎯 Objetivo
 
+Seguir mejorando mis habilidades en programación y construir proyectos que me permitan crecer como desarrollador.
 
 
 ### Lenguajes
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PSeInt](https://img.shields.io/badge/PSeInt-Algoritmos-blue?style=flat)
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" title="PSeInt (Lógica de programación)" width="60" height="60"/>
+</p>
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
