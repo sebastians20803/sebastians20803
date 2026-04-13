@@ -35,5 +35,9 @@ Seguir mejorando mis habilidades en programación y construir proyectos que me p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="60" height="60"/>
 </p>
 
+## 📊 Métricas de GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastians20803&show_icons=true)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebastians20803&theme=tokyo-night&area=true" alt="activity graph" />
+</p>
