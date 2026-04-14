@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>" Enfocado "</em>
+  <em>" Enfocado en mi meta "</em>
 </p>
 
 ## Sobre mí 🇨🇴
