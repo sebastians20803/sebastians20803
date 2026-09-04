@@ -23,6 +23,7 @@ Soy **desarrollador de software** radicado en Bucaramanga, Santander, enfocado e
 **Lenguajes y Frontend:**
 - Python
 - HTML5, CSS3 y JavaScript (Consumo de APIs)
+- MySQL
 
 **Metodologías y Herramientas:**
 - Scrum / Frameworks Ágiles
@@ -34,10 +35,17 @@ Soy **desarrollador de software** radicado en Bucaramanga, Santander, enfocado e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" title="n8n" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/claude/claude-original.svg" title="Claude" width="50" height="50"/>
 </p>
 
 ### 📂 Proyectos Destacados
 
+- **[Automatizacion de preseleccion de hojas de vida para empresa con IA]([https://github.com/sebastians20803/Proyecto_Python_SierraJuan](https://github.com/sebastians20803/Sistema-Inteligente-de-Preselecci-n-y-Evaluaci-n-de-Candidatos))** - Sistema de selección de candidatos basado en Inteligencia Artificial y automatización, diseñado para analizar hojas de vida, evaluar perfiles según criterios definidos por Recursos Humanos y generar una preselección objetiva de candidatos.
+- **[Acme Exam Platform]([https://github.com/sebastians20803/Proyecto_Python_SierraJuan](https://github.com/sebastians20803/ProyectoAcmeschool_JavaScript_SierraSebastian_RinconGabriela_RianoBrayan))** - Plataforma web de gestión y realización de exámenes que permite administrar usuarios, exámenes, preguntas y respuestas, además de ofrecer a los estudiantes la posibilidad de resolver evaluaciones con temporizador y obtener automáticamente sus resultados y estado de aprobación. Utiliza estructuras JSON y almacenamiento local para la persistencia de datos.
 - **[Pokedex Web App - API de Pokémon](#)** - *(Agrega aquí el link a tu repo)*. Aplicación web interactiva que consume la PokéAPI. Desarrollé tarjetas de personajes dinámicas con fondos personalizados simulando cartas reales de Pokémon, enfocándome en el diseño visual y la manipulación de datos externos.
 - **[Simulador de Gasto Diario](https://github.com/sebastians20803/Proyecto_Python_SierraJuan)** - Proyecto desarrollado en Python orientado a la lógica de programación y gestión de datos.
 
