@@ -38,8 +38,8 @@ Soy **desarrollador de software** radicado en Bucaramanga, Santander, enfocado e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" title="n8n" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/claude/claude-original.svg" title="Claude" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/n8n" title="n8n" width="50" height="50"/>
+<img src="https://cdn.simpleicons.org/claude" title="Claude" width="50" height="50"/>
 </p>
 
 ### 📂 Proyectos Destacados
@@ -56,5 +56,8 @@ Actualmente dedico mi tiempo a fortalecer mis bases en programación, investigar
 ## 📊 Métricas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebastians20803&theme=tokyo-night&area=true" alt="activity graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sebastians20803&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
