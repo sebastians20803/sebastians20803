@@ -53,11 +53,4 @@ Soy **desarrollador de software** radicado en Bucaramanga, Santander, enfocado e
 
 Actualmente dedico mi tiempo a fortalecer mis bases en programación, investigar nuevas tecnologías de software y prepararme estratégicamente para entrevistas técnicas. Disfruto diseñar planes de acción efectivos, establecer objetivos claros e identificar mentores que me ayuden a alcanzar mi máximo potencial como desarrollador.
 
-## 📊 Métricas de GitHub
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sebastians20803&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
