@@ -17,6 +17,8 @@ Soy **desarrollador de software** radicado en Bucaramanga, Santander, enfocado e
 - 🤖 Interesado en el impacto de la inteligencia artificial, la generación de herramientas digitales y la automatización empresarial.
 - 🗣️ Idiomas: **Español (Nativo)** | **Inglés (Activamente mejorando fluidez técnica y preparación para entrevistas)**.
 - ✉️ Contacto: sebastiancampus20803@gmail.com
+- 💼 Portafolio: https://sebastians20803.github.io/PortafolioNuevo/
+- 📢 Linkedin: https://www.linkedin.com/in/sebastians20803/
 
 ### 🛠️ Habilidades y Tecnologías
 
@@ -30,6 +32,13 @@ Soy **desarrollador de software** radicado en Bucaramanga, Santander, enfocado e
 - Gestión de proyectos y estructuración de planes de estudio
 - Herramientas de IA para diseño y adaptación de interfaces
 
+### 📂 Proyectos Destacados
+
+- **[Automatizacion de preseleccion de hojas de vida para empresa con IA](https://github.com/sebastians20803/Sistema-Inteligente-de-Preselecci-n-y-Evaluaci-n-de-Candidatos)** - Sistema de selección de candidatos basado en Inteligencia Artificial y automatización, diseñado para analizar hojas de vida, evaluar perfiles según criterios definidos por Recursos Humanos y generar una preselección objetiva de candidatos.
+- **[Acme Exam Platform](https://github.com/sebastians20803/ProyectoAcmeschool_JavaScript_SierraSebastian_RinconGabriela_RianoBrayan)** - Plataforma web de gestión y realización de exámenes que permite administrar usuarios, exámenes, preguntas y respuestas, además de ofrecer a los estudiantes la posibilidad de resolver evaluaciones con temporizador y obtener automáticamente sus resultados y estado de aprobación. Utiliza estructuras JSON y almacenamiento local para la persistencia de datos.
+- **[Simulador de Gasto Diario](https://github.com/sebastians20803/Proyecto_Python_SierraJuan)** - Proyecto desarrollado en Python orientado a la lógica de programación y gestión de datos.
+
+  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="50" height="50"/>
@@ -42,11 +51,6 @@ Soy **desarrollador de software** radicado en Bucaramanga, Santander, enfocado e
 <img src="https://cdn.simpleicons.org/claude" title="Claude" width="50" height="50"/>
 </p>
 
-### 📂 Proyectos Destacados
-
-- **[Automatizacion de preseleccion de hojas de vida para empresa con IA](https://github.com/sebastians20803/Sistema-Inteligente-de-Preselecci-n-y-Evaluaci-n-de-Candidatos)** - Sistema de selección de candidatos basado en Inteligencia Artificial y automatización, diseñado para analizar hojas de vida, evaluar perfiles según criterios definidos por Recursos Humanos y generar una preselección objetiva de candidatos.
-- **[Acme Exam Platform](https://github.com/sebastians20803/ProyectoAcmeschool_JavaScript_SierraSebastian_RinconGabriela_RianoBrayan)** - Plataforma web de gestión y realización de exámenes que permite administrar usuarios, exámenes, preguntas y respuestas, además de ofrecer a los estudiantes la posibilidad de resolver evaluaciones con temporizador y obtener automáticamente sus resultados y estado de aprobación. Utiliza estructuras JSON y almacenamiento local para la persistencia de datos.
-- **[Simulador de Gasto Diario](https://github.com/sebastians20803/Proyecto_Python_SierraJuan)** - Proyecto desarrollado en Python orientado a la lógica de programación y gestión de datos.
 
 ### 🎯 Mi Enfoque Actual
 
